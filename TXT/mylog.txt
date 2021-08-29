@@ -1,4 +1,12 @@
-# REV06 Wed 07 Jul 2021 20:15:07 WIB
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W00 10 L03 Github related Creating Repository
+ZCZC W00 5 L04 GitHub Pages related Creating my Github page (https://bilhudapramana.github.io/os212/)
+ZCZC W00 10 L01 SCELE Reading every Course Syllabus and making sure updated for the week
+ZCZC W00 10 L11 Assignment #01 Creating Public Repo (DONE)
+ZCZC W00 10 L12 Assignment #02 Creating LOG (DONE)
+ZCZC W00 10 L13 Assignment #03 Creating Github Page (DONE) (https://bilhudapramana.github.io/os212/)
+ZCZC W00 10 L14 Assignment #04 Join Scele Course (DONE)
+ZCZC W00 30 L21 Trying something Trying make github page pretty (not done)
