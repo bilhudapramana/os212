@@ -1,4 +1,4 @@
-[OS WEBSITE](https://os.vlsm.org/)|[What's the weather like today?](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?lang=EN)
+[OS WEBSITE](https://os.vlsm.org/) | [What's the weather like today?](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?lang=EN)
 # Welcome to BPH page!
 Hello, my name is **Bilhuda Pramana Hasibuan** and I am an international student at university of Indonesia. Nice to see you in my GHP for my operation systems class.
 
