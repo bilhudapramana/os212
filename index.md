@@ -5,6 +5,6 @@ Hello, my name is **Bilhuda Pramana Hasibuan** and I am an international student
 # Link To My LOG
 [LOG](https://bilhudapramana.github.io/os212/TXT/mylog.txt)
 
-# **Quick Games**Try to decipher the crypted text below.
+# Let's Play A Quick Games Try to decipher the crypted text below.
 pYUnCactOSlk0pxnO2LhyM9Eh8cNxXw+P5HEmgYbdmo=
 > **Note:** It is a simple crypted text.
