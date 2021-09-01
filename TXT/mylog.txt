@@ -13,3 +13,16 @@ ZCZC W00 30 L21 Trying something Trying make github page pretty (not done)
 ZCZC W00 120 L72 Online Related Job I'm getting ready for the market to open tomorrow, and I'm thinking about what kinds of trades I'll make. (FOREX TRADER)
 ZCZC W00 30 L15 Assignment #05 Watching and reading materials off https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html (DONE)
 ZCZC W00 30 L04 GitHub Pages related Editing my page to look little bit nicer
+ZCZC W00 10 L01 Looking for new updates
+ZCZC W00 100 L02 OS Class Week 00
+ZCZC W00 120 L73 Gaming
+ZCZC W00 20 L80 Watching some netflix
+ZCZC W00 180 L71 Working (Trading)
+ZCZC W00 30 L32 Studying how to make Website and Other things [PBD]
+ZCZC W00 100 L02 PBD Class
+ZCZC W00 100 L02 math discrete Class
+ZCZC W00 180 L70 Studying MathDiscrete 2 and Making Essay for PBD
+ZCZC W00 120 L73 Gaming 
+ZCZC W00 30 L80 Watching Binging With Babish on YouTube
+ZCZC W00 60 L15 Assignment #05 Reading Sesh preparing the Quiz#1
+ZCZC W00 10 L02 OS Class QnA Week 00
