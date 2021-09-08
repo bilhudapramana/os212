@@ -37,3 +37,5 @@ ZCZC W01 100 L02 OS Class
 ZCZC W01 100 L02 PBD Class
 ZCZC W01 60 L70 Researching For Essay (PBD Class)
 ZCZC W01 100 L02 Mathdiscrete 2 Class
+ZCZC W01 30 L16 Assignment #6: Dress Up Your GitHub Page (Done It Since Last Week So In This Week I Spent Time To Researching To Make It Even More Pretty)
+ZCZC W01 30 L17 Assignment #7: Update mylog.txt (Done)
