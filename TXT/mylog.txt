@@ -38,3 +38,4 @@ ZCZC W01 100 L02 PBD Class
 ZCZC W01 60 L70 Researching For Essay (PBD Class)
 ZCZC W01 100 L02 Mathdiscrete 2 Class
 ZCZC W01 30 L11 Assignment #1: VirtualBox Guest Preparation (Done)
+ZCZC W01 120 L12 Assignment #2: Importing or Installing?
