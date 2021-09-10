@@ -39,3 +39,6 @@ ZCZC W01 60 L70 Researching For Essay (PBD Class)
 ZCZC W01 100 L02 Mathdiscrete 2 Class
 ZCZC W01 30 L11 Assignment #1: VirtualBox Guest Preparation (Done)
 ZCZC W01 120 L12 Assignment #2: Importing or Installing?
+ZCZC W01 45 L13 Assignment #3 The ATM Way: GSGS and Read
+ZCZC W01 120 L14 Assignment #4: Dress Up Your Virtual Guest
+ZCZC W01 20 L14 Assignment #5: SSH Keys and Git Cloning
