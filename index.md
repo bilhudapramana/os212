@@ -1,4 +1,4 @@
-[🗄OS WEBSITE🗄](https://os.vlsm.org/) | [☁What's the weather like today?☁](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?lang=EN) | [🔗OS STUFF'S🔗](links.md)
+[🗄OS WEBSITE🗄](https://os.vlsm.org/) | [☁What's the weather like today?☁](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?lang=EN) | [🔗OS STUFF'S🔗](https://bilhudapramana.github.io/os212/LINKS)
 #  ✅𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐁𝐏𝐇 𝐩𝐚𝐠𝐞!✅
 Hello, my name is **Bilhuda Pramana Hasibuan** and I am an international student at university of Indonesia. Nice to see you in my GHP for my operation systems class.
 
