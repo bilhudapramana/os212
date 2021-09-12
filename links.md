@@ -3,7 +3,12 @@ layout: "layout"
 permalink: /LINKS/
 ---
 
-# [🔙](https://bilhudapramana.github.io/os212/) | [☁What's the weather like today?☁](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?lang=EN) | [🗄MyRepo🗄](https://github.com/bilhudapramana/os212)
+# [🔙](https://bilhudapramana.github.io/os212/) | [🗄MyRepo🗄](https://github.com/bilhudapramana/os212)
 
-#  📣𝐖𝐞𝐥𝐜𝐨𝐦𝐞 To OS Stuff's By BPH📣
-Hello, my name is **Bilhuda Pramana Hasibuan** and I am an international student at university of Indonesia. Nice to see you in my GHP for my operation systems class.
+# 🔗LINKS🔗
+1. [LINUX SUCKS 2021](https://www.youtube.com/watch?v=WtJ9T_IJOPE&t=87s) 
+   My first ever video watched around OS and it's really inspiring me to learn more because it really is a story of the rise and fall of LINUX.
+2. [osp4diss Website](https://osp4diss.vlsm.org/osp-115.html)
+   Really comprehensive source of information for OS and other topics.
+3. [Linux For Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU)
+   Must-see video for new or advanced Linux users because it covers the fundamentals.
