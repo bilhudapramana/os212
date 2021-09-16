@@ -46,3 +46,10 @@ ZCZC W01 30 L16 Assignment #6: Dress Up Your GitHub Page (Done)
 ZCZC W01 30 L17 Assignment #7: Updating Log using CMD (Done)
 ZCZC W01 30 L19 Assignment #9: Assignment #9: OSC 10 READING Ch 1,2,18 and Prepareing for the quiz tommorow(Done)
 ZCZC W01 30 L16 Assignment #6: Dress Up Your GitHub Page2 (Done)
+ZCZC W02 100 L02 PBD class
+ZCZC W02 100 L02 MD2 class
+ZCZC W02 100 L02 PBD class
+ZCZC W02 120 L21 Trying something : Django for PBD class
+ZCZC W02 90 L32 YouTube: study, etc.: Researching for PBD django
+ZCZC W02 10 L22 Quiz : StatProb Quiz
+ZCZC W02 60 L16 Assignment #1: Read Chapter 16 17
