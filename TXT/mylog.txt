@@ -53,3 +53,4 @@ ZCZC W02 120 L21 Trying something : Django for PBD class
 ZCZC W02 90 L32 YouTube: study, etc.: Researching for PBD django
 ZCZC W02 10 L22 Quiz : StatProb Quiz
 ZCZC W02 60 L16 Assignment #1: Read Chapter 16 17
+ZCZC W02 60 L13 Assignment #03 :Watch: Cyber Security Introduction part 1 and the begining of part 2.
