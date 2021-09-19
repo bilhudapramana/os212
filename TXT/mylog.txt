@@ -69,3 +69,4 @@ ZCZC W02 25 L20 Assignment #10 : REVIEW PEERS LINKS
 ZCZC W02 30 L09 Assignment #11 : Write BASH SCRIPT
 ZCZC W02 30 L09 Assignment #12 : Update LOG
 ZCZC W02 30 L09 Assignment #13 : Simple script to generate SHA256SUM
+ZCZC W02 60 L12 Assignment #2 : Try Demos
