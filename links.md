@@ -24,5 +24,5 @@ permalink: /LINKS/
 6. [Linux Tutorial For Beginners](https://www.youtube.com/watch?v=v_1zB2WNN14) <br>
    This Linux Tutorial video will assist you in gaining an understanding of Linux administration. This Linux lesson will also introduce you to the fundamental Linux commands so      that you can begin utilising the Linux CLI. Please watch the video all the way through to the end to view the whole demonstration. The subjects are listed below.
    
-6. [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) <br>
+7. [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) <br>
    This video provides a crash course on getting started with BASH for new users. 
