@@ -58,3 +58,4 @@ ZCZC W02 180 L71 Working (Trading)
 ZCZC W02 60 L11 Assignment #1: Read Chapter 16 17
 ZCZC W02 120 L80 Watching YouTube Videos
 ZCZC W02 67 L13 Assignment #3 :Watch: Cyber Security Introduction part 1
+ZCZC W02 135 L13 Assignment #3 :Watch: Cyber Security Introduction part 2 
