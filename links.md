@@ -17,3 +17,12 @@ permalink: /LINKS/
    
 4. [Markdowns Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br>
    I use this link to make my Github page more interesting, and it is a really useful tool. since I'm new to markdowns and don't know what the code for anything is
+   
+5. [Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c) <br>
+   This is a mandatory video. Try to watch to learn about CyberSecurity.
+
+6. [Linux Tutorial For Beginners](https://www.youtube.com/watch?v=v_1zB2WNN14) <br>
+   This Linux Tutorial video will assist you in gaining an understanding of Linux administration. This Linux lesson will also introduce you to the fundamental Linux commands so      that you can begin utilising the Linux CLI. Please watch the video all the way through to the end to view the whole demonstration. The subjects are listed below.
+   
+6. [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) <br>
+   This video provides a crash course on getting started with BASH for new users. 
