@@ -59,3 +59,13 @@ ZCZC W02 60 L11 Assignment #1: Read Chapter 16 17
 ZCZC W02 120 L80 Watching YouTube Videos
 ZCZC W02 67 L13 Assignment #3 :Watch: Cyber Security Introduction part 1
 ZCZC W02 135 L13 Assignment #3 :Watch: Cyber Security Introduction part 2 
+ZCZC W02 30 L14 Assignment #4 : Generate A GnuPG Key Pair
+ZCZC W02 30 L15 Assignment #5 : List of all GnuPG keys
+ZCZC W02 10 L16 Assignment #6 : Importing ospubkey.txt Key
+ZCZC W02 20 L17 Assignment #7 : Signing the OS PubKey
+ZCZC W02 15 L18 Assignment #8 : Export PubKey to Repo
+ZCZC W02 30 L19 Assignment #9 : Update bookmarks LINKS
+ZCZC W02 25 L20 Assignment #10 : REVIEW PEERS LINKS
+ZCZC W02 30 L09 Assignment #11 : Write BASH SCRIPT
+ZCZC W02 30 L09 Assignment #12 : Update LOG
+ZCZC W02 30 L09 Assignment #13 : Simple script to generate SHA256SUM
