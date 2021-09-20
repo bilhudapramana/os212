@@ -74,3 +74,4 @@ ZCZC W03 20 L05 OS Weekly Quiz
 ZCZC W03 100 L02 ZOOM meetings related : OS Class
 ZCZC W03 20 L01 SCELE/Discord related  checking for updates on SCeLe
 ZCZC W03 60 L70 Studying for other courses : preparing for Mathdiscrete 2 Quiz
+ZCZC W03 70 L71 Workking
