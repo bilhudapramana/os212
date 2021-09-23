@@ -80,4 +80,8 @@ ZCZC W03 20 L18 Assignment #08 : Update LOG
 ZCZC W03 60 L13 Assignment #03 : Try Previous MidTem Problems [not done]
 ZCZC W03 20 L14 Assignment #04 : Check if your ”.bash_aliases” file is up-todate.
 ZCZC W03 10 L18 Assignment #08 : Update LOG
-
+ZCZC W03 30 L15 Assignment #05 : Add/Create An Extra Virtual Disk.
+ZCZC W03 5 L17 Assignment #07 : Review your peer links
+ZCZC W03 10 L08 Assignment #08 : UPDATE LOG
+ZCZC W03 120 L12 Assignment #02 : Try Demo
+ZCZC W03 15 L19 L19 Assignment #09 : Scripting Submit 
