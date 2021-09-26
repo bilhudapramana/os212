@@ -25,4 +25,10 @@ permalink: /LINKS/
    This Linux Tutorial video will assist you in gaining an understanding of Linux administration. This Linux lesson will also introduce you to the fundamental Linux commands so      that you can begin utilising the Linux CLI. Please watch the video all the way through to the end to view the whole demonstration. The subjects are listed below.
    
 7. [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) <br>
-   This video provides a crash course on getting started with BASH for new users. 
+   This video provides a crash course on getting started with BASH for new users.
+   
+8. [Linux File System Basics](https://www.dummies.com/computers/operating-systems/linux/linux-file-system-basics/) <br>
+   This site offers a basic overview of what a file system interface is. Then it tells you about the file characteristics, the basic components of a file, and how to use it.        This website is useful since it allows me to understand the fundamentals of a file system interface without having to delve into higher information.
+   
+8. [C Language Cheet Sheet](https://www.programiz.com/c-programming) <br>
+   its very helpful website because it is really helping my programming skills in C language to improve and it has been such a help and a handybook for me to learn any              programming langauge
