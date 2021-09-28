@@ -93,3 +93,6 @@ ZCZC W04 100 L02 ZOOM meetings related : PBD CLASS
 ZCZC W04 60 L11 Assignment #01 : Read Chapter 9
 ZCZC W04 120 L12 Assignment #02 : Try DEMOS
 ZCZC W04 120 L13 Assignment #03 : Studying MidTerms Problems
+ZCZC W04 25 L14 Assignment #04 : Install Package List 2 (TLPI) (https://osp4diss.vlsm.org/osp-103.html#idxpl2).
+ZCZC W04 20 L15 Assignment #05 : Fetch and Extract File ”WEEK04.tar.bz2.asc”
+ZCZC W04 30 L16 Assignment #06 : Update your bookmark links. See C.B. Kadal’s ”LINKS/”
