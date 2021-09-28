@@ -88,3 +88,8 @@ ZCZC W03 15 L19 L19 Assignment #09 : Scripting Submit
 ZCZC W03 20 L16 Assignment #06 :  Update your bookmark links. See C.B. Kadal’s ”LINKS/”
 ZCZC W03 60 L73 Gaming Valorant
 ZCZC W03 10 L01 SCELE/Discord related : Weekly Reflection
+ZCZC W04 25 L05 Quiz related : OS QUIZ W04
+ZCZC W04 100 L02 ZOOM meetings related : PBD CLASS
+ZCZC W04 60 L11 Assignment #01 : Read Chapter 9
+ZCZC W04 120 L12 Assignment #02 : Try DEMOS
+ZCZC W04 120 L13 Assignment #03 : Studying MidTerms Problems
