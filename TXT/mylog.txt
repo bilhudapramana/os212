@@ -96,3 +96,6 @@ ZCZC W04 120 L13 Assignment #03 : Studying MidTerms Problems
 ZCZC W04 25 L14 Assignment #04 : Install Package List 2 (TLPI) (https://osp4diss.vlsm.org/osp-103.html#idxpl2).
 ZCZC W04 20 L15 Assignment #05 : Fetch and Extract File ”WEEK04.tar.bz2.asc”
 ZCZC W04 30 L16 Assignment #06 : Update your bookmark links. See C.B. Kadal’s ”LINKS/”
+ZCZC W04 20 L17 Assignment #07 : Review your peer links.
+ZCZC W04 30 L18 Assignment #08 : Update your log. See C.B. Kadal’s ”mylog.txt”
+ZCZC W04 10 L19 Assignment #09 : Submit Your Week 04 Assignment.
