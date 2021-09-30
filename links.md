@@ -32,3 +32,10 @@ permalink: /LINKS/
    
 8. [C Language Cheet Sheet](https://www.programiz.com/c-programming) <br>
    its very helpful website because it is really helping my programming skills in C language to improve and it has been such a help and a handybook for me to learn any              programming langauge
+
+8. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br>
+   This website has provided me with a thorough explanation of memory allocation in C, and it has proven to be a very useful resource.
+   
+9. [What is the Difference Between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br>
+   A detailed description of virtual memory and physical memory is presented here. 
+   
