@@ -100,3 +100,6 @@ ZCZC W04 20 L17 Assignment #07 : Review your peer links.
 ZCZC W04 30 L18 Assignment #08 : Update your log. See C.B. Kadal’s ”mylog.txt”
 ZCZC W04 10 L19 Assignment #09 : Submit Your Week 04 Assignment.
 ZCZC W04 250 L32 YouTube: study, find new stuff.
+ZCZC W04 120 L73 Gaming : Valorant
+ZCZC W04 380 L70 Studying for other courses. : coding django for PBD
+ZCZC W04 120 L32 YouTube: study, etc. : for OS Quiz
