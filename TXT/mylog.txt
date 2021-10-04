@@ -103,3 +103,5 @@ ZCZC W04 250 L32 YouTube: study, find new stuff.
 ZCZC W04 120 L73 Gaming : Valorant
 ZCZC W04 380 L70 Studying for other courses. : coding django for PBD
 ZCZC W04 120 L32 YouTube: study, etc. : for OS Quiz
+ZCZC W05 25 L05 Quiz related OS QUIZ
+ZCZC W05 5 L01 SCELE/Discord related Daily Check
