@@ -112,3 +112,6 @@ ZCZC W05 180 L12 Assignment #02 : Try Demos in https://github.com/UI-FASILKOM-OS
 ZCZC W05 60 L13 Assignment #03 : Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf).
 ZCZC W05 120 L14 Assignment #04 :  How Low (Memory) Can You Go?(a) Fetch and Extract File WEEK05.tar.bz2.asc.(b) Modify mymemory2.c.(c) Run script "000-README.txt." See here.(d) Copy the result (WEEK05-MEMORY.txt).
 ZCZC W05 10 L18 Assignment #08 : Update your log. See C.B. Kadal’s ”mylog.txt”
+ZCZC W05 120 L64 Helping OS related problem to a friend.
+ZCZC W05 30 L06 References/Books/Documents/GSGS related
+ZCZC W05 60 L32 YouTube: study, etc. for StatProb
