@@ -6,5 +6,11 @@ permalink: /TIPS/
 
 # 🏆TIPS🏆
 
-1. ## Always GSGS Everytime <br>
+## 1. Always GSGS Everytime <br>
    befriend google in life and you will succeed, Don't ask to many question often you're question is already asked so GSGS all the time
+
+## 2. learn How To Use CMD <br>
+   As you are aware, a large portion of operating system assignments is completed via CMD. I, for one, have had difficulty learning how to use CMD since I haven't had much            experience with it; nevertheless, it is not that difficult if you put in the effort.
+   
+## 3. Always Be UptoDate To The Latest News <br>
+   Always keep an eye on the OS discord or Scele. It's very beneficial to check every hour or so to see if there's any additional announcements or anything else that may effects with the courses.   
