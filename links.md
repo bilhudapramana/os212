@@ -37,5 +37,16 @@ permalink: /LINKS/
    This website has provided me with a thorough explanation of memory allocation in C, and it has proven to be a very useful resource.
    
 9. [What is the Difference Between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br>
-   A detailed description of virtual memory and physical memory is presented here. 
+   A detailed description of virtual memory and physical memory is presented here.
+
+10. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br>
+   I'm still new to C and looking for a good place to learn it. I came on this YouTube channel, which has been extremely useful in teaching me the C programming language.
    
+11. [We're switching to Linux. By Linus Tech Tips](https://www.youtube.com/watch?v=rHpWKPfvTmM) <br>
+   This video is very helpful to me right now, since I believe Linux is on its way out. However, after seeing this movie, linux is coming back to life, as many gaming developers    are attempting to implement in linux in order to game on, and Linus Tech is moving to linux.
+   
+12. [Cost, performance and size tradeoffs for different levels in a memory hierarchy](https://dl.acm.org/doi/abs/10.1145/633617.803551) <br>
+   An essay on cost, performance, and size tradeoffs at various levels in a memory hierarchy that is really useful since it explains everything well.
+   
+13. [Principles of virtual memory](http://www.cburch.com/books/vm/index.html) <br>
+   The principles of virtual memory are discussed in detail in this essay, which is very beneficial since it thoroughly explains the subject matter.   
