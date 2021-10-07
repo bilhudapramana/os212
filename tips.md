@@ -6,5 +6,5 @@ permalink: /TIPS/
 
 # 🏆TIPS🏆
 
-1. ## Always GSGS Everyime <br>
+1. ## Always GSGS Everytime <br>
    befriend google in life and you will succeed, Don't ask to many question often you're question is already asked so GSGS all the time
