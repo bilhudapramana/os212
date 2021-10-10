@@ -133,3 +133,4 @@ ZCZC W05 300 L73 Gaming
 ZCZC W05 20 L83 Pets: feeding, playing, etc
 ZCZC W05 35 L04 GitHub Pages related : Update LINKS And TIPS
 ZCZC W05 120 L71 Working  (Trading)
+ZCZC W05 60 L71 Working (Applying For Job)
