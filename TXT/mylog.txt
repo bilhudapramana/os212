@@ -150,3 +150,4 @@ ZCZC W06 10 L18 Assignment #08 : Update Log
 ZCZC W06 10 L19 Assignment #09 : Submit
 ZCZC W06 20 L63 Fixing Hardware Problems : PC CLEANING
 ZCZC W06 120 L73 Gaming
+ZCZC W06 60 L11 Assignment #01 : Read Books Studying
