@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 [🔙](https://bilhudapramana.github.io/os212/) | [🗄MyRepo🗄](https://github.com/bilhudapramana/os212) 
 
-# 🔗LINKS🔗
+# 🔗LINKS🔗 (✅Updated To Week06 Materials✅)
 
 1. [LINUX SUCKS 2021](https://www.youtube.com/watch?v=WtJ9T_IJOPE&t=87s) <br>
    My first ever video watched around OS and it's really inspiring me to learn more because it really is a story of the rise and fall of LINUX. <br>
@@ -30,26 +30,32 @@ permalink: /LINKS/
 8. [Linux File System Basics](https://www.dummies.com/computers/operating-systems/linux/linux-file-system-basics/) <br>
    This site offers a basic overview of what a file system interface is. Then it tells you about the file characteristics, the basic components of a file, and how to use it.        This website is useful since it allows me to understand the fundamentals of a file system interface without having to delve into higher information.
    
-8. [C Language Cheet Sheet](https://www.programiz.com/c-programming) <br>
+9. [C Language Cheet Sheet](https://www.programiz.com/c-programming) <br>
    its very helpful website because it is really helping my programming skills in C language to improve and it has been such a help and a handybook for me to learn any              programming langauge
 
-8. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br>
+10. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br>
    This website has provided me with a thorough explanation of memory allocation in C, and it has proven to be a very useful resource.
    
-9. [What is the Difference Between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br>
+11. [What is the Difference Between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br>
    A detailed description of virtual memory and physical memory is presented here.
 
-10. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br>
+12. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) <br>
    I'm still new to C and looking for a good place to learn it. I came on this YouTube channel, which has been extremely useful in teaching me the C programming language.
    
-11. [We're switching to Linux. By Linus Tech Tips](https://www.youtube.com/watch?v=rHpWKPfvTmM) <br>
+13. [We're switching to Linux. By Linus Tech Tips](https://www.youtube.com/watch?v=rHpWKPfvTmM) <br>
    This video is very helpful to me right now, since I believe Linux is on its way out. However, after seeing this movie, linux is coming back to life, as many gaming developers    are attempting to implement in linux in order to game on, and Linus Tech is moving to linux.
    
-12. [Cost, performance and size tradeoffs for different levels in a memory hierarchy](https://dl.acm.org/doi/abs/10.1145/633617.803551) <br>
+14. [Cost, performance and size tradeoffs for different levels in a memory hierarchy](https://dl.acm.org/doi/abs/10.1145/633617.803551) <br>
    An essay on cost, performance, and size tradeoffs at various levels in a memory hierarchy that is really useful since it explains everything well.
    
-13. [📝Principles of virtual memory📝](http://www.cburch.com/books/vm/index.html) <br>
+15. [📝Principles of virtual memory📝](http://www.cburch.com/books/vm/index.html) <br>
    The principles of virtual memory are discussed in detail in this essay, which is very beneficial since it thoroughly explains the subject matter.
    
-14. [🍴fork() in C🍴](https://www.geeksforgeeks.org/fork-system-call/) <br>
+16. [🍴fork() in C🍴](https://www.geeksforgeeks.org/fork-system-call/) <br>
    Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
+      
+17. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=It%20enable%20to%20run%20multiple%20applications%20at%20the%20same%20time.&text=It%20enables%20that%20the%20resources,be%20used%20for%20other%20applications.&text=Without%20concurrency%2C%20each%20application%20has,next%20one%20can%20be%20run.&text=It%20enables%20the%20better%20performance%20by%20the%20operating%20system.) <br>
+   It is an extremely thorough explanation of concurrency in an operating system.
+  
+18. [Concept of Concurrency](https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm) <br>
+   It is an extremely thorough explanation of the concept concurrency. Furthermore, this website provides a very clear and simple explanation of what is going on.
