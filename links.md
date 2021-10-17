@@ -17,7 +17,7 @@ permalink: /LINKS/
    
 4. [Markdowns Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/) <br>
    I use this link to make my Github page more interesting, and it is a really useful tool. since I'm new to markdowns and don't know what the code for anything is
-   
+
 5. [Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c) <br>
    This is a mandatory video. Try to watch to learn about CyberSecurity.
 
@@ -48,5 +48,8 @@ permalink: /LINKS/
 12. [Cost, performance and size tradeoffs for different levels in a memory hierarchy](https://dl.acm.org/doi/abs/10.1145/633617.803551) <br>
    An essay on cost, performance, and size tradeoffs at various levels in a memory hierarchy that is really useful since it explains everything well.
    
-13. [Principles of virtual memory](http://www.cburch.com/books/vm/index.html) <br>
-   The principles of virtual memory are discussed in detail in this essay, which is very beneficial since it thoroughly explains the subject matter.   
+13. [📝Principles of virtual memory📝](http://www.cburch.com/books/vm/index.html) <br>
+   The principles of virtual memory are discussed in detail in this essay, which is very beneficial since it thoroughly explains the subject matter.
+   
+14. [🍴fork() in C🍴](https://www.geeksforgeeks.org/fork-system-call/) <br>
+   Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
