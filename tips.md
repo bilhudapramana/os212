@@ -13,4 +13,7 @@ permalink: /TIPS/
    As you are aware, a large portion of operating system assignments is completed via CMD. I, for one, have had difficulty learning how to use CMD since I haven't had much            experience with it; nevertheless, it is not that difficult if you put in the effort.
    
 ## 3. Always Be UptoDate To The Latest News <br>
-   Always keep an eye on the OS discord or Scele. It's very beneficial to check every hour or so to see if there's any additional announcements or anything else that may effects with the courses.   
+   Always keep an eye on the OS discord or Scele. It's very beneficial to check every hour or so to see if there's any additional announcements or anything else that may effects with the courses.
+   
+## 4. Always Be Carefull When You Doing You're Assignment <br>
+   OS Assingment It is not difficult, but you must be alert and cautious while completing the task since small errors may be fatal.
