@@ -17,3 +17,6 @@ permalink: /TIPS/
    
 ## 4. Always Be Carefull When You Doing You're Assignment <br>
    OS Assingment It is not difficult, but you must be alert and cautious while completing the task since small errors may be fatal.
+   
+## 5. Don't Sleep At Class <br>
+  Self Explainitory   
