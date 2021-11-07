@@ -151,3 +151,8 @@ ZCZC W06 10 L19 Assignment #09 : Submit
 ZCZC W06 20 L63 Fixing Hardware Problems : PC CLEANING
 ZCZC W06 120 L73 Gaming
 ZCZC W06 60 L11 Assignment #01 : Read Books Studying
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 60 L22 Quiz
+ZCZC W07 60 L11 Assignment #01 : Read OSC10 chapter 6, 7, 8 
+ZCZC W07 120 L12 Assignment #02 : Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W07 100 L13 Assignment #03 : Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf).
