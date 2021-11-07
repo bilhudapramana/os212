@@ -64,4 +64,7 @@ permalink: /LINKS/
    very usefull website to learn Process Synchronization.
    
 20. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
-   very usefull website to Deadlock in Operating System.
+   very usefull website to learn Deadlock in Operating System.
+
+21. [Process Synchronization in Operating Systems: Definition & Mechanisms](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html) <br>
+   very usefull website to learn Process Synchronization in Operating Systems: Definition & Mechanisms.
