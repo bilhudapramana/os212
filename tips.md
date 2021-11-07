@@ -22,4 +22,7 @@ permalink: /TIPS/
   Self Explainitory
   
 ## 6. Do DEMOS AND MIDTERMS PROBS <br>
+  Self Explainitory
+  
+## 7. Do READ THE BOOKS FOR GOOD GRADES <br>
   Self Explainitory     
