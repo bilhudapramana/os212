@@ -19,4 +19,7 @@ permalink: /TIPS/
    OS Assingment It is not difficult, but you must be alert and cautious while completing the task since small errors may be fatal.
    
 ## 5. Don't Sleep At Class <br>
-  Self Explainitory   
+  Self Explainitory
+  
+## 6. Do DEMOS AND MIDTERMS PROBS <br>
+  Self Explainitory     
