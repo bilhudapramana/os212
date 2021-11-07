@@ -59,3 +59,9 @@ permalink: /LINKS/
   
 18. [Concept of Concurrency](https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm) <br>
    It is an extremely thorough explanation of the concept concurrency. Furthermore, this website provides a very clear and simple explanation of what is going on.
+   
+19. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html) <br>
+   very usefull website to learn Process Synchronization.
+   
+20. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
+   very usefull website to Deadlock in Operating System.
