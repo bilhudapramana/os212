@@ -68,3 +68,9 @@ permalink: /LINKS/
 
 21. [Process Synchronization in Operating Systems: Definition & Mechanisms](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html) <br>
    very usefull website to learn Process Synchronization in Operating Systems: Definition & Mechanisms.
+   
+   22. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.) <br>
+   CPU Scheduling is a process of determining which process will own CPU for execution while another process is on hold. The main task of CPU scheduling is to make sure that whenever the CPU remains idle, the OS at least select one of the processes available in the ready queue for execution. The selection process will be carried out by the CPU scheduler. It selects one of the processes in memory that are ready for execution.
+   
+   23. [What Does Multiprocessor Mean?](https://www.techopedia.com/definition/8474/multiprocessor) <br>
+   A multiprocessor is a computer system with two or more central processing units (CPUs), with each one sharing the common main memory as well as the peripherals. This helps in simultaneous processing of programs.
