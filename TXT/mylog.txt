@@ -165,3 +165,22 @@ ZCZC W07 10 L19 Assignment #09 : Submit your Week 07 Assignment (See Week 03).
 ZCZC W07 20 L64 Helping OS related problem to a friend.
 ZCZC W07 120 L70 Studying for other courses.
 ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W08 100 L11 Assignment #01 : 1 Read OSC10 chapter 5
+ZCZC W08 120 L12 Assignment #02 : Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W08 100 L13 Assignment #03 : Try Previous FinalTerm Problems
+ZCZC W08 300 L14 Assignment #04 : Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 120 L15 Assignment #05 :  Linux From Scratch 11.0 Chapter 05
+ZCZC W08 10 L16 Assignment #06 : Update your bookmark links. See C.B. Kadal’s "LINKS/".
+ZCZC W08 10 L17 Assignment #07 : (Optional) Any suggestions/tips for the next semester class? See C.B. Kadal’s "TIPS/".
+ZCZC W08 20 L18 Assignment #08 : Review your peer links
+ZCZC W08 10 L19 Assignment #09 : Update your log. See C.B. Kadal’s ”mylog.txt”
+ZCZC W08 10 L20 Assignment #10 : Submit your Week 08 Assignment (See Week 03).
+ZCZC W08 10 L21 Trying something and searching for results
+ZCZC W08 40 L22 Quiz 
+ZCZC W08 100 L32 YouTube: study, etc.
+ZCZC W08 120 L64 Helping OS related problem to a friend.
+ZCZC W08 30 L08 AsDos: asking, etc.help on ASG 4 and 5
+ZCZC W08 240 L80 Waching: Movie, YouTube, TV, etc. watching eternals
+ZCZC W08 100 L02 ZOOM meetings related class
+ZCZC W08 30 L23 Linux CLI including tar, etc.
+ZCZC W08 100 L25 Scripting for grade
