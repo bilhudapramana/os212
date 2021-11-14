@@ -26,3 +26,9 @@ permalink: /TIPS/
   
 ## 7. Do READ THE BOOKS FOR GOOD GRADES <br>
   Self Explainitory     
+
+## 8. Do CHECKS EVERTHING <br>
+  Self Explainitory
+  
+  ## 9. Do THE INSTRUCTION <br>
+  Self Explainitory     
