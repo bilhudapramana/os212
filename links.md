@@ -74,3 +74,7 @@ permalink: /LINKS/
    
    23. [What Does Multiprocessor Mean?](https://www.techopedia.com/definition/8474/multiprocessor) <br>
    A multiprocessor is a computer system with two or more central processing units (CPUs), with each one sharing the common main memory as well as the peripherals. This helps in simultaneous processing of programs.
+   
+   24. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+   Scheduling of processes/work is done to finish the work on time.
+Below are different time with respect to a process.
