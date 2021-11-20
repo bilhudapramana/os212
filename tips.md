@@ -31,4 +31,11 @@ permalink: /TIPS/
   Self Explainitory
   
   ## 9. Do THE INSTRUCTION <br>
-  Self Explainitory     
+  Self Explainitory
+  
+  ## 10. TRUST IN THE SLIDES <br>
+  Self Explainitory
+  
+  ## 11. PAY ATTN AT THE ZOOM <br>
+  Self Explainitory
+
