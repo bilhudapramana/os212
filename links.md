@@ -78,3 +78,11 @@ permalink: /LINKS/
    24. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
    Scheduling of processes/work is done to finish the work on time.
 Below are different time with respect to a process.
+
+   25. [BIOS (basic input/output system)](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system#:~:text=BIOS%20(basic%20input%2Foutput%20system)%20is%20the%20program%20a,%2C%20keyboard%2C%20mouse%20and%20printer.) <br>
+  BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on. It also manages data flow between the computer's operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer.
+  
+  
+  26. [Unified Extensible Firmware Interface (UEFI)](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI) <br>
+  What is Unified Extensible Firmware Interface (UEFI)? Unified Extensible Firmware Interface (UEFI)
+
