@@ -199,4 +199,4 @@ ZCZC W09 20 L32 YouTube: study, etc.
 ZCZC W09 10 L04 GitHub Pages related
 ZCZC W09 30 L05 Quiz related
 ZCZC W09 10 L64 Helping OS related problem to a friend.
-ZCZC W09 10 L64 Helping OS related problem to a friend.
+ZCZC W09 300 L14 Assignment #04 : Linux From Scratch 11.0 Chapter 01-06
