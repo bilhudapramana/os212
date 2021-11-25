@@ -86,3 +86,5 @@ Below are different time with respect to a process.
   26. [Unified Extensible Firmware Interface (UEFI)](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI) <br>
   What is Unified Extensible Firmware Interface (UEFI)? Unified Extensible Firmware Interface (UEFI)
 
+  27. [Unified Extensible Firmware Interface (UEFI)](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI) <br>
+  What is Unified Extensible Firmware Interface (UEFI)? Unified Extensible Firmware Interface (UEFI)
