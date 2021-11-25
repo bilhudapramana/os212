@@ -38,4 +38,7 @@ permalink: /TIPS/
   
   ## 11. PAY ATTN AT THE ZOOM <br>
   Self Explainitory
+  
+  ## 11. PAY ATTN AT THE ZOOM <br>
+  Self Explainitory
 
