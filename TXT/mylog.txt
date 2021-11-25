@@ -201,3 +201,13 @@ ZCZC W09 30 L05 Quiz related
 ZCZC W09 10 L64 Helping OS related problem to a friend.
 ZCZC W09 300 L14 Assignment #04 : Linux From Scratch 11.0 Chapter 01-06
 ZCZC W09 10 L64 Helping OS related problem to a friend.
+ZCZC W10 120 : L11 Assignment #01
+ZCZC W10 100 : L12 Assignment #02
+ZCZC W10 120 : L13 Assignment #03
+ZCZC W10 120 : L14 Assignment #04 
+ZCZC W10 10 : L15 Assignment #05
+ZCZC W10 30 : L16 Assignment #06
+ZCZC W10 20 : L17 Assignment #07
+ZCZC W10 10 : L18 Assignment #08
+ZCZC W10 10 : L19 Assignment #09
+ZCZC W10 100 : L22 Quiz
